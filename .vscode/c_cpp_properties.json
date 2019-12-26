@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/eko_rudiawan/ROS_Projects/barelang_sim_ws/devel/include/**",
+                "/home/eko_rudiawan/ROS_Projects/Guai-Guai_sim_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/eko_rudiawan/ROS_Projects/Guai-Guai_sim_ws/src/gait_controller/include/**",
+                "/home/eko_rudiawan/iros_monitor_ws/src/keyboard_control/include/**",
+                "/home/eko_rudiawan/ROS_Projects/Guai-Guai_sim_ws/src/kinematic_solver/include/**",
+                "/home/eko_rudiawan/ROS_Projects/SMACH_ws/src/simple_state_machine/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
